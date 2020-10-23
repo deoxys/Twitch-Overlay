@@ -4,7 +4,7 @@ Twitch overlay I made for friends
 # Requirements
 Meteor 1.11.1
 
-#To Run
+# To Run
 1. Run `meteor npm install` in the terminal to install all dependencies.
 2. Run `meteor` in the terminal to run it.
 3. Open the browser and go to localhost:3000
