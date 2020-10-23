@@ -1,5 +1,5 @@
 # Twitch-Overlay
-Twitch overlay I made for friends
+Twitch overlay I made for friends with Meteor, React JS and Bootstrap 
 
 # Requirements
 Meteor 1.11.1
