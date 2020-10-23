@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  background-color: var(--dark);
+  width: 100%;
+}
+
+.bg-translucent {
+  background-color: rgba(0,0,0,0.3);
+}
+
+.my-node-enter {
+  opacity: 0;
+}
+.my-node-enter-active {
+  opacity: 1;
+  transition: opacity 2000ms;
+}
+.my-node-exit {
+  opacity: 1;
+}
+.my-node-exit-active {
+  opacity: 0;
+  transition: opacity 2000ms;
+}
